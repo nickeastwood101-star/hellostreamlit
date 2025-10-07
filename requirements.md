@@ -1,0 +1,10 @@
+torch
+torchvision
+pillow
+numpy
+pandas
+pdf2image
+pytesseract
+streamlit
+streamlit-drawable-canvas
+openpyxl
